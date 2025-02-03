@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\ykaraman\\other_apps\\BitbucketRepoBulkCloner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{732C3803-0FF4-4E2C-94FA-AE4A5BF55B77}|BitbucketRepoBulkCloner\\BitbucketRepoBulkCloner.csproj|d:\\projects\\ykaraman\\other_apps\\bitbucketrepobulkcloner\\bitbucketrepobulkcloner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{732C3803-0FF4-4E2C-94FA-AE4A5BF55B77}|BitbucketRepoBulkCloner\\BitbucketRepoBulkCloner.csproj|solutionrelative:bitbucketrepobulkcloner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{732C3803-0FF4-4E2C-94FA-AE4A5BF55B77}|BitbucketRepoBulkCloner\\BitbucketRepoBulkCloner.csproj|d:\\projects\\ykaraman\\other_apps\\bitbucketrepobulkcloner\\bitbucketrepobulkcloner\\managers\\bitbucketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{732C3803-0FF4-4E2C-94FA-AE4A5BF55B77}|BitbucketRepoBulkCloner\\BitbucketRepoBulkCloner.csproj|solutionrelative:bitbucketrepobulkcloner\\managers\\bitbucketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{732C3803-0FF4-4E2C-94FA-AE4A5BF55B77}|BitbucketRepoBulkCloner\\BitbucketRepoBulkCloner.csproj|d:\\projects\\ykaraman\\other_apps\\bitbucketrepobulkcloner\\bitbucketrepobulkcloner\\models\\bitbucketrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{732C3803-0FF4-4E2C-94FA-AE4A5BF55B77}|BitbucketRepoBulkCloner\\BitbucketRepoBulkCloner.csproj|solutionrelative:bitbucketrepobulkcloner\\models\\bitbucketrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BitbucketManager.cs",
+              "DocumentMoniker": "D:\\projects\\ykaraman\\other_apps\\BitbucketRepoBulkCloner\\BitbucketRepoBulkCloner\\Managers\\BitbucketManager.cs",
+              "RelativeDocumentMoniker": "BitbucketRepoBulkCloner\\Managers\\BitbucketManager.cs",
+              "ToolTip": "D:\\projects\\ykaraman\\other_apps\\BitbucketRepoBulkCloner\\BitbucketRepoBulkCloner\\Managers\\BitbucketManager.cs",
+              "RelativeToolTip": "BitbucketRepoBulkCloner\\Managers\\BitbucketManager.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T11:43:43.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BitbucketRepo.cs",
+              "DocumentMoniker": "D:\\projects\\ykaraman\\other_apps\\BitbucketRepoBulkCloner\\BitbucketRepoBulkCloner\\Models\\BitbucketRepo.cs",
+              "RelativeDocumentMoniker": "BitbucketRepoBulkCloner\\Models\\BitbucketRepo.cs",
+              "ToolTip": "D:\\projects\\ykaraman\\other_apps\\BitbucketRepoBulkCloner\\BitbucketRepoBulkCloner\\Models\\BitbucketRepo.cs",
+              "RelativeToolTip": "BitbucketRepoBulkCloner\\Models\\BitbucketRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T11:43:05.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projects\\ykaraman\\other_apps\\BitbucketRepoBulkCloner\\BitbucketRepoBulkCloner\\Program.cs",
+              "RelativeDocumentMoniker": "BitbucketRepoBulkCloner\\Program.cs",
+              "ToolTip": "D:\\projects\\ykaraman\\other_apps\\BitbucketRepoBulkCloner\\BitbucketRepoBulkCloner\\Program.cs",
+              "RelativeToolTip": "BitbucketRepoBulkCloner\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T11:41:56.688Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
